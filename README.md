@@ -50,7 +50,7 @@ https://github.com/yourusername/IKPartner/releases/download/v1.0/app-debug.apk
 
 | Home                      | Leads                      | Scanner                      | Content                      |
 | ------------------------- | -------------------------- | ---------------------------- | ---------------------------- |
-| ![]<img src="https://github.com/user-attachments/assets/82d78360-72ad-492c-b2cc-122412562b08" width="200"/> | ![](screenshots/leads.png) | ![](screenshots/scanner.png) | ![](screenshots/content.png) |
+| ![]<img src="https://github.com/user-attachments/assets/82d78360-72ad-492c-b2cc-122412562b08" width="200"/> | ![]<img src="https://github.com/user-attachments/assets/98ddee79-ce0c-433f-aa7e-95d17a4c1544" width="200"/> | ![]<img src="https://github.com/user-attachments/assets/557124cc-4c7b-4240-bdc8-1a3ca815b57e" width="200"/>  | ![]<img src="https://github.com/user-attachments/assets/87230332-5e3b-490d-b947-38fe11e8c6d5" width="200"/> |
 
 ---
 
@@ -58,6 +58,7 @@ https://github.com/yourusername/IKPartner/releases/download/v1.0/app-debug.apk
 
 
 # Features!
+
 
 
 ### Splash Screen
