@@ -45,13 +45,16 @@ https://github.com/yourusername/IKPartner/releases/download/v1.0/app-debug.apk
 
 | Splash                      | Login                      | OTP                      |
 | --------------------------- | -------------------------- | ------------------------ |
-| ![](screenshots/splash.png) | ![](screenshots/login.png) | ![](screenshots/otp.png) |
+| ![]([screenshots/splash.png](https://github.com/user-attachments/assets/daf57114-919c-4da2-9029-bd2cec77be5b)) | ![](screenshots/login.png) | ![](screenshots/otp.png) |
 
 | Home                      | Leads                      | Scanner                      | Content                      |
 | ------------------------- | -------------------------- | ---------------------------- | ---------------------------- |
 | ![](screenshots/home.png) | ![](screenshots/leads.png) | ![](screenshots/scanner.png) | ![](screenshots/content.png) |
 
 ---
+
+
+
 
 # Features
 
