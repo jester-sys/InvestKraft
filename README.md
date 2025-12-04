@@ -34,7 +34,7 @@ https://github.com/yourusername/IKPartner/demo/video.mp4
 👉 **Download APK**
 
 ```
-https://github.com/yourusername/IKPartner/releases/download/v1.0/app-debug.apk
+https://appho.st/d/cbstDhFk
 ```
 
 
