@@ -46,13 +46,14 @@ https://github.com/yourusername/IKPartner/releases/download/v1.0/app-debug.apk
 
 | Splash                      | Login                      | OTP                      |
 | --------------------------- | -------------------------- | ------------------------ |
-| ![] <img src="https://github.com/user-attachments/assets/ebbd4a4d-0a49-4310-94be-354ef72a8db9" width="200"/> | ![]<img src="https://github.com/user-attachments/assets/7d6f2cfb-61be-431f-a267-9594cfdb6aed" width="200"/> | ![]<img src="https://github.com/user-attachments/assets/82d78360-72ad-492c-b2cc-122412562b08" width="200"/> |
+| ![] <img src="https://github.com/user-attachments/assets/ebbd4a4d-0a49-4310-94be-354ef72a8db9" width="200"/> | ![]<img src="https://github.com/user-attachments/assets/7d6f2cfb-61be-431f-a267-9594cfdb6aed" width="200"/> | ![]<img src="https://github.com/user-attachments/assets/c4cdd178-a3be-4616-86dc-193238221576" width="200"/> |
 
 | Home                      | Leads                      | Scanner                      | Content                      |
 | ------------------------- | -------------------------- | ---------------------------- | ---------------------------- |
-| ![](screenshots/home.png) | ![](screenshots/leads.png) | ![](screenshots/scanner.png) | ![](screenshots/content.png) |
+| ![]<img src="https://github.com/user-attachments/assets/82d78360-72ad-492c-b2cc-122412562b08" width="200"/> | ![](screenshots/leads.png) | ![](screenshots/scanner.png) | ![](screenshots/content.png) |
 
 ---
+
 
 
 
