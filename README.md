@@ -1,88 +1,115 @@
-App Overview
+# IK Partner – Financial Partner Demo App
 
-IK Partner is a comprehensive financial services platform that enables users to become financial partners and earn commissions by selling loans, insurance, and investment products. Built with modern Android development technologies using Kotlin and Jetpack Compose.InvestKraft is a demo Android app designed using Jetpack Compose and follows a clean, modular structure.
+IK Partner is a comprehensive financial services platform that enables users to become financial partners and earn commissions by selling loans, insurance, and investment products.
 
-It includes:
+This project is built using **Kotlin + Jetpack Compose** and follows a clean, modular structure. All displayed data is **dummy data** for UI and flow demonstration.
 
- Splash Screen
- Login Screen
- OTP Verification
- Bottom Navigation (Home, Leads, Scanner, Content)
- Modern Material 3 UI
- Dummy data for layout & flow testing
+---
 
- Add your demo video link here:
- 
- Download APK
+## App Overview
 
-👉 Download APK
+This demo application includes:
 
-Screenshots
+* Splash Screen
+* Login Screen
+* OTP Verification
+* Bottom Navigation (Home, Leads, Scanner, Content)
+* Modern Material 3 UI
+* Dummy data for design & testing
 
+---
 
+## Demo Video
 
+*Add your demo video link here*
 
-(Upload images inside /screenshots/ folder and replace file names.)
+```
+https://github.com/yourusername/IKPartner/demo/video.mp4
+```
 
- Features
- Splash Screen
+---
 
-Smooth entry animation
+## Download APK
 
-App branding and quick load
+👉 **Download APK**
 
- Login Screen
+```
+https://github.com/yourusername/IKPartner/releases/download/v1.0/app-debug.apk
+```
 
-Mobile number input
+---
 
-Clean Material UI
+## Screenshots
 
- OTP Verification
+(Upload images inside `/screenshots/` folder and replace file names.)
 
-4/6 box OTP input
+| Splash                      | Login                      | OTP                      |
+| --------------------------- | -------------------------- | ------------------------ |
+| ![](screenshots/splash.png) | ![](screenshots/login.png) | ![](screenshots/otp.png) |
 
-Auto-focus and smooth interaction
+| Home                      | Leads                      | Scanner                      | Content                      |
+| ------------------------- | -------------------------- | ---------------------------- | ---------------------------- |
+| ![](screenshots/home.png) | ![](screenshots/leads.png) | ![](screenshots/scanner.png) | ![](screenshots/content.png) |
 
- Bottom Navigation
+---
 
-Includes Home, Leads, Scanner, Content
+# Features
 
-Material 3 bottom bar
+### Splash Screen
 
-Icon animations & highlight state
+* Smooth entry animation
+* Branding + fast loading
 
-Screens Description
- Home Screen
+### Login Screen
 
-Simple dashboard layout
+* Mobile number input
+* Clean Material UI
 
-Cards, stats, and quick sections
+### OTP Verification
 
-Uses placeholder dummy data
+* 4/6 digit OTP input
+* Auto-focus + smooth interaction
 
-📇 Leads Screen
+### Bottom Navigation
 
-List of leads with status badges
+* Home
+* Leads
+* Scanner
+* Content
+* Material 3 UI
+* Active/Inactive icon animations
 
-Add new lead FAB
+---
 
-Dummy customer information
+# Screens Description
 
- Scanner Screen
+### Home Screen
 
-Scanner layout UI
+* Dashboard-style layout
+* Cards, stats, and quick sections
+* Placeholder dummy values
 
-Camera preview placeholder
+### Leads Screen
 
-Scan/Upload button (dummy)
+* List of leads with status badges
+* Add new lead using FAB
+* Dummy customer data
 
-Content Screen
+### Scanner Screen
 
-Articles or content feed
+* Scanner layout UI placeholder
+* Camera preview box
+* Dummy Scan/Upload button
 
-Text + image cards
+### Content Screen
 
-Static dummy content
+* Articles/content feed
+* Text + image cards
+* Static dummy content
+
+---
+
+## Tech Stack
 
 | Category         | Technology                 |
 | ---------------- | -------------------------- |
@@ -93,8 +120,11 @@ Static dummy content
 | State Management | ViewModel                  |
 | Data             | Dummy JSON / Fake data     |
 
+---
 
-Project Structure
+# Project Structure
+
+```
 app/
  ├── ui/
  │    ├── splash/
@@ -117,44 +147,46 @@ app/
  ├── viewmodel/
  │
  └── MainActivity.kt
+```
 
+---
 
- Architecture
- MVVM
+# Architecture
 
-Clear separation of UI + logic using ViewModels.
+### MVVM
 
- StateFlow
+* Separation of UI + business logic using ViewModels
 
-Modern reactive UI updates.
+### StateFlow
 
- Navigation Compose
+* Modern reactive UI updates
 
-Single-activity Compose Navigation.
+### Navigation Compose
 
- Reusable Components
+* Single-activity architecture
+* Smooth transitions
 
-Buttons, cards, text fields etc.
+### Reusable Components
 
+* Cards, text fields, buttons, containers
 
-Dummy Data
+---
 
-All data in the app is fake / dummy for UI, design & testing:
+# Dummy Data
 
-Leads list
+All data used in this project is **fake/dummy** for UI, design, and flow testing:
 
-Home stats
+* Leads list
+* Home stats
+* Scanner preview
+* Content feed
+* User info
 
-Scanner layout
+No backend or API is connected.
 
-Content articles
+---
 
-User info
+# Developer
 
-No backend is connected.
-
-Developer
-
-Kanhaiya Yadav
-Built using Kotlin + Jetpack Compose ❤️
-
+**Kanhaiya Yadav**
+Built using **Kotlin + Jetpack Compose ❤️**
