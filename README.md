@@ -26,7 +26,6 @@ This demo application includes:
 ```
 https://github.com/yourusername/IKPartner/demo/video.mp4
 ```
-![WhatsApp Image 2025-12-04 at 4 52 11 PM](https://github.com/user-attachments/assets/b1cc9fa8-f83e-4b3d-91f4-6220a812a662)
 
 ---
 
@@ -38,6 +37,7 @@ https://github.com/yourusername/IKPartner/demo/video.mp4
 https://github.com/yourusername/IKPartner/releases/download/v1.0/app-debug.apk
 ```
 
+
 ---
 
 ## Screenshots
@@ -46,7 +46,7 @@ https://github.com/yourusername/IKPartner/releases/download/v1.0/app-debug.apk
 
 | Splash                      | Login                      | OTP                      |
 | --------------------------- | -------------------------- | ------------------------ |
-| ![] <img src="https://github.com/user-attachments/assets/ebbd4a4d-0a49-4310-94be-354ef72a8db9" width="200"/> | ![]<img src="https://github.com/user-attachments/assets/7d6f2cfb-61be-431f-a267-9594cfdb6aed" width="200"/> | ![](screenshots/otp.png) |
+| ![] <img src="https://github.com/user-attachments/assets/ebbd4a4d-0a49-4310-94be-354ef72a8db9" width="200"/> | ![]<img src="https://github.com/user-attachments/assets/7d6f2cfb-61be-431f-a267-9594cfdb6aed" width="200"/> | ![]<img src="https://github.com/user-attachments/assets/82d78360-72ad-492c-b2cc-122412562b08" width="200"/> |
 
 | Home                      | Leads                      | Scanner                      | Content                      |
 | ------------------------- | -------------------------- | ---------------------------- | ---------------------------- |
