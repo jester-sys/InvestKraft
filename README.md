@@ -19,13 +19,7 @@ This demo application includes:
 
 ---
 
-## Demo Video
 
-*Add your demo video link here*
-
-```
-https://github.com/yourusername/IKPartner/demo/video.mp4
-```
 
 ---
 
