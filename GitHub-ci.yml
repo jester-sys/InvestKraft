@@ -1,0 +1,25 @@
+stages:
+- "My First Stage"
+- "My build Stage"
+_ " My Test Stage"
+
+My Job:
+ -stages: "My First Stage"
+   script:
+    -
+     echo "My job From Stages"
+
+     
+My Job:
+ -stages: "My build Stage"
+   script:
+    -
+     echo "My job From Build"
+
+
+
+My Job:
+ -stages: "My Test Stage"
+   script:
+    -
+     echo "My job From test"
